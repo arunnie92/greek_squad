@@ -1,0 +1,2409 @@
+[
+   {
+      "skuId":"2855494",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"GAMING GSP",
+         "id":"358"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "totalCount":437
+         },
+         "starRatingBreakdown":[
+            {
+               "count":10,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":2,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":12,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":26,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":406,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":456
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"With a Geek Squad® Product Replacement Plan, if your gaming software stops working properly, we'll give you a replacement (if the product is available) or reimburse you.",
+         "bonusContent":"Make sure to protect your new gaming software. A Geek Squad® Product Replacement Plan enhances and extends your manufacturer warranty and gives you peace of mind if your product isn't working properly.<br><br>If your gaming software fails for an issue that we cover but your manufacturer doesn't, we'll replace your product (if one is available) or reimburse you."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR ADH 10-19.99 SFTWARE GSP-R"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/2855/2855494_sa.jpg",
+            "altText":"2-Year Geek Squad Product Replacement - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/2855/2855494_sc.jpg",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/2855/2855494_s.gif",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Geek Squad Product Replacement",
+         "keywords":"2-Year Geek Squad Product Replacement",
+         "title":"Geek Squad 2-Year Geek Squad Product Replacement 2YR ADH 10-19.99 SFTWARE GSP-R"
+      },
+      "names":{
+         "short":"2-Year Geek Squad Product Replacement"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Computer & Tablet Warranties",
+         "categoryId":"pcmcat1500565313715"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"SOFTWARE GSP-R",
+         "id":"360"
+      },
+      "url":"/site/2-year-geek-squad-product-replacement/2855494.p?skuId=2855494"
+   },
+   {
+      "skuId":"2856009",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"GAMING GSP",
+         "id":"358"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "totalCount":437
+         },
+         "starRatingBreakdown":[
+            {
+               "count":10,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":2,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":12,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":26,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":406,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":456
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"With a Geek Squad® Product Replacement Plan, if your gaming software stops working properly, we'll give you a replacement (if the product is available) or reimburse you.",
+         "bonusContent":"Make sure to protect your new gaming software. A Geek Squad® Product Replacement Plan enhances and extends your manufacturer warranty and gives you peace of mind if your product isn't working properly.<br><br>If your gaming software fails for an issue that we cover but your manufacturer doesn't, we'll replace your product (if one is available) or reimburse you."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR ADH 20-39.99 SFTWARE GSP-R"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/2856/2856009_sa.jpg",
+            "altText":"2-Year Geek Squad Product Replacement - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/2856/2856009_sc.jpg",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/2856/2856009_s.gif",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Geek Squad Product Replacement",
+         "keywords":"2-Year Geek Squad Product Replacement",
+         "title":"Geek Squad 2-Year Geek Squad Product Replacement 2YR ADH 20-39.99 SFTWARE GSP-R"
+      },
+      "names":{
+         "short":"2-Year Geek Squad Product Replacement"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Computer & Tablet Warranties",
+         "categoryId":"pcmcat1500565313715"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"SOFTWARE GSP-R",
+         "id":"360"
+      },
+      "url":"/site/2-year-geek-squad-product-replacement/2856009.p?skuId=2856009"
+   },
+   {
+      "skuId":"4403100",
+      "active":true,
+      "attributes":{
+         "lowPriceGuaranteedProduct":true
+      },
+      "brand":{
+         "brand":"NETGEAR"
+      },
+      "class":{
+         "displayName":"DATA HARDWARE",
+         "id":"414"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.94,
+            "percent0To100":94,
+            "rangeMax":5,
+            "score":4.7
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.95,
+            "percent0To100":95,
+            "totalCount":8552
+         },
+         "starRatingBreakdown":[
+            {
+               "count":169,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":72,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":274,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":1407,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":7055,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":8977
+      },
+      "department":{
+         "displayName":"DTS",
+         "id":"10"
+      },
+      "descriptions":{
+         "short":"<li>Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem</li><li>Speeds up to 960Mbps</li><li>Works with XFINITY from Comcast, Spectrum, Cox, CableONE and more</li><li>WiFi Protected Access</li><li>4 Gigabit Ethernet ports</li>",
+         "bonusContent":"The Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem delivers WiFi speeds of up to 1.9Gbps. It ensures uninterrupted HD video streaming with 24x8 channel bonding. Save up to &#36;120 a year by eliminating Internet service provider rental fees. This cable modem router supports XFINITY from Comcast, Spectrum, Cox & more.<BR><BR><a href=\"https://www.bestbuy.com/site/tech-help/home-networking-support/pcmcat748302046865.c?id=pcmcat748302046865\" class=\"bbypopup\" data-bbypopup-width=\"960\" data-bbypopup-height=\"800\" title=\"Learn about home Wi-Fi\" target=\"blank\" data-track=\"[context:linkRegion=PDP_ SOL54740,linkPlacement=Banner,linkContent=GetToKnowYourNetwork]\"><img src=\"\nhttps://pisces.bbystatic.com/image2/BestBuy_US/Gallery/pdp-home-wi-fi-sol54740-DER-141483.jpg\" width=\"468 px\" height=\"90 px\" alt=\"Get to know your network.  Are you frustrated with slow Wi-Fi speeds? Concerned about digital security or  your kids' online safety? Get answers here. Learn about home Wi-Fi\"></a>"
+      },
+      "manufacturerId":{
+         "modelNumber":"C7000-100NAS"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":0.556,
+            "height":500,
+            "path":"BestBuy_US/images/products/4403/4403100_sa.jpg",
+            "altText":"NETGEAR - Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem - Black - Larger Front",
+            "width":278
+         },
+         "listImage":{
+            "aspectRatio":0.5556,
+            "height":189,
+            "path":"BestBuy_US/images/products/4403/4403100_sc.jpg",
+            "altText":"NETGEAR - Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem - Black",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":0.5567,
+            "height":97,
+            "path":"BestBuy_US/images/products/4403/4403100_s.gif",
+            "altText":"NETGEAR - Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem - Black",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"NETGEAR Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem: AC1900 Router with DOCSIS 3.0 Modem Combo; Speeds up to 960Mbps; Works with XFINITY from Comcast, Spectrum, Cox, CableONE; WiFi Protected Access; 4 Gigabit Ethernet ports",
+         "keywords":"C7000-100NAS,Modems,NETGEAR,Networking,Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem",
+         "title":"NETGEAR Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem Black C7000-100NAS"
+      },
+      "names":{
+         "short":"NETGEAR - Nighthawk Dual-Band AC1900 Router with 24 x 8 DOCSIS 3.0 Cable Modem - Black"
+      },
+      "parentCategory":{
+         "displayName":"Modem & Router Combos",
+         "categoryId":"pcmcat748302046324"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"CABLE GATEWAYS",
+         "id":"973"
+      },
+      "url":"/site/netgear-nighthawk-dual-band-ac1900-router-with-24-x-8-docsis-3-0-cable-modem-black/4403100.p?skuId=4403100"
+   },
+   {
+      "skuId":"5856600",
+      "active":true,
+      "attributes":{
+         "bestBuyExclusiveProduct":true,
+         "exclusiveBrand":true,
+         "lowPriceGuaranteedProduct":true,
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Insignia™"
+      },
+      "class":{
+         "displayName":"MICROWAVE",
+         "id":"41"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.92,
+            "percent0To100":92,
+            "rangeMax":5,
+            "score":4.6
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.95,
+            "percent0To100":95,
+            "totalCount":1774
+         },
+         "starRatingBreakdown":[
+            {
+               "count":43,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":25,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":50,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":427,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":1326,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":1871
+      },
+      "department":{
+         "displayName":"APPLIANCE",
+         "id":"4"
+      },
+      "descriptions":{
+         "short":"<b>Only at Best Buy</b><br>900W of power; electronic controls; LED display; beverage; popcorn; pizza; vegetables; potato; weight defrost; express cook; time defrost; dinner; 10.6\" turntable; child security",
+         "bonusContent":"<b>Only at Best Buy</b><br>Heat food quickly and efficiently with this 0.9 cu. ft. Insignia microwave. One-touch buttons take the guesswork out of cooking common foods like popcorn and pizza, and the bright LED display lets you operate the device in low-light conditions. This Insignia microwave has an integrated child lock for safety.<BR><BR><a href=\"https://www.bestbuy.com/site/buying-guides/microwaves-buying-guide/pcmcat324600050002.c?id=pcmcat324600050002&Type=category\" class=\"bbypopup\" data-bbypopup-width=\"960\" data-bbypopup-height=\"800\" title=\"Microwave Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Microwave_118889\"><img src=\"https://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/global/buyingguides/microwaves/images/bg_microwave_pdp.png\" width=\"468 px\" height=\"90 px\" alt=\"Microwave Buying Guide\"></a>"
+      },
+      "manufacturerId":{
+         "modelNumber":"NS-MW09SS8"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.7182,
+            "height":291,
+            "path":"BestBuy_US/images/products/5856/5856600_sa.jpg",
+            "altText":"Insignia™ - 0.9 Cu. Ft. Compact Microwave - Stainless steel - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.7213,
+            "height":61,
+            "path":"BestBuy_US/images/products/5856/5856600_sc.jpg",
+            "altText":"Insignia™ - 0.9 Cu. Ft. Compact Microwave - Stainless steel",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.7419,
+            "height":31,
+            "path":"BestBuy_US/images/products/5856/5856600_s.gif",
+            "altText":"Insignia™ - 0.9 Cu. Ft. Compact Microwave - Stainless steel",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Insignia 0.9 Cu Ft Compact Microwave: 900W of power; electronic controls; LED display; beverage; popcorn; pizza; vegetables; potato; weight defrost; express cook; time defrost; dinner; 10.6\" turntable; child security",
+         "keywords":"Insignia,0.9 Cu. Ft. Compact Microwave,NS-MW09SS8,Compact Microwaves,Home & Appliances",
+         "title":"Insignia 0.9 Cu. Ft. Compact Microwave Silver NS-MW09SS8"
+      },
+      "names":{
+         "short":"Insignia™ - 0.9 Cu. Ft. Compact Microwave - Stainless steel"
+      },
+      "parentCategory":{
+         "displayName":"All Microwaves",
+         "categoryId":"pcmcat748301803023"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"COMPACT",
+         "id":"61"
+      },
+      "url":"/site/insignia-0-9-cu-ft-compact-microwave-stainless-steel/5856600.p?skuId=5856600"
+   },
+   {
+      "skuId":"5871203",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"CONNECTED NETWORK",
+         "id":"600"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.97,
+            "percent0To100":97,
+            "totalCount":2883
+         },
+         "starRatingBreakdown":[
+            {
+               "count":53,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":19,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":75,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":246,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":2590,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":2983
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"With a Geek Squad® Product Replacement Plan, if your smart home product stops working properly, we'll give you a replacement (if the product is available) or reimburse you. You'll be covered for:<br><br> \n<ul> \n<li>Failures from normal wear and tear.</li> \n<li>Issues with Bluetooth connectivity due to mechanical failure.</li> \n<li>Power surge damage, including from lightning strikes.</li> \n</ul>",
+         "bonusContent":"Make sure to protect your new smart home product. A Geek Squad® Product Replacement Plan enhances and extends your manufacturer warranty and gives you peace of mind if your product isn't working properly.<br><br>If your smart home product fails for an issue that we cover but your manufacturer doesn't, we'll replace your product (if one is available) or reimburse you."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR 150-199.99 CNNCTD HM GSP-R"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/5871/5871203_sa.jpg",
+            "altText":"2-Year Geek Squad Product Replacement - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/5871/5871203_sc.jpg",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/5871/5871203_s.gif",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Geek Squad Product Replacement",
+         "keywords":"2-Year Geek Squad Product Replacement",
+         "title":"Geek Squad 2-Year Geek Squad Product Replacement 2YR 150-199.99 CNNCTD HM GSP-R"
+      },
+      "names":{
+         "short":"2-Year Geek Squad Product Replacement"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Computer & Tablet Warranties",
+         "categoryId":"pcmcat1500565313715"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"SMART HOME GSPR",
+         "id":"6623"
+      },
+      "url":"/site/2-year-geek-squad-product-replacement/5871203.p?skuId=5871203"
+   },
+   {
+      "skuId":"5965508",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"SMALL APPLIANCE GSP",
+         "id":"574"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.98,
+            "percent0To100":98,
+            "totalCount":218
+         },
+         "starRatingBreakdown":[
+            {
+               "count":3,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":1,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":8,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":18,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":193,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":223
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"Enhance your manufacturer warranty and get extended coverage when the warranty ends, including:<br><br> \n<ul> \n<li>If there's a failure from normal wear and tear, we'll repair it.</li> \n<li>If your product won't work because of a power surge, we'll fix it.</li> \n</ul>",
+         "bonusContent":"You're excited to buy a new countertop microwave — now, make sure to protect it. Geek Squad® Protection enhances your manufacturer warranty and gives you extended coverage when the warranty ends.<br><br>Geek Squad Protection often covers important repairs that your manufacturer warranty doesn't (like failure due to a power surge).<br><br>If something goes wrong after the manufacturer warranty ends, rest easy; you won't be stuck with a huge repair bill. Geek Squad Protection has your back and will take care of any covered repairs."
+      },
+      "manufacturerId":{
+         "modelNumber":"4YR 50-99.99 MICROWAVE GSP"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/5965/5965508_sa.jpg",
+            "altText":"4-Year Standard Geek Squad Protection - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/5965/5965508_sc.jpg",
+            "altText":"4-Year Standard Geek Squad Protection",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/5965/5965508_s.gif",
+            "altText":"4-Year Standard Geek Squad Protection",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"4-Year Standard Geek Squad Protection",
+         "keywords":"4-Year Standard Geek Squad Protection",
+         "title":"Geek Squad 4-Year Standard Geek Squad Protection 4YR 50-99.99 MICROWAVE GSP"
+      },
+      "names":{
+         "short":"4-Year Standard Geek Squad Protection"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Appliance Warranties",
+         "categoryId":"pcmcat1500565152234"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"MICROWAVES GSP",
+         "id":"821"
+      },
+      "url":"/site/4-year-standard-geek-squad-protection/5965508.p?skuId=5965508"
+   },
+   {
+      "skuId":"5965515",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"SMALL APPLIANCE GSP",
+         "id":"574"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.98,
+            "percent0To100":98,
+            "totalCount":217
+         },
+         "starRatingBreakdown":[
+            {
+               "count":3,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":1,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":8,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":18,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":192,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":222
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"Enhance your manufacturer warranty and get extended coverage when the warranty ends, including:<br><br> \n<ul> \n<li>If there's a failure from normal wear and tear, we'll repair it.</li> \n<li>If your product won't work because of a power surge, we'll fix it.</li> \n</ul>",
+         "bonusContent":"You're excited to buy a new countertop microwave — now, make sure to protect it. Geek Squad® Protection enhances your manufacturer warranty and gives you extended coverage when the warranty ends.<br><br>Geek Squad Protection often covers important repairs that your manufacturer warranty doesn't (like failure due to a power surge).<br><br>If something goes wrong after the manufacturer warranty ends, rest easy; you won't be stuck with a huge repair bill. Geek Squad Protection has your back and will take care of any covered repairs."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR 0-49.99 MICROWAVE GSP"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/5965/5965515_sa.jpg",
+            "altText":"2-Year Standard Geek Squad Protection - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/5965/5965515_sc.jpg",
+            "altText":"2-Year Standard Geek Squad Protection",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/5965/5965515_s.gif",
+            "altText":"2-Year Standard Geek Squad Protection",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Standard Geek Squad Protection",
+         "keywords":"2-Year Standard Geek Squad Protection",
+         "title":"Geek Squad 2-Year Standard Geek Squad Protection 2YR 0-49.99 MICROWAVE GSP"
+      },
+      "names":{
+         "short":"2-Year Standard Geek Squad Protection"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Appliance Warranties",
+         "categoryId":"pcmcat1500565152234"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"MICROWAVES GSP",
+         "id":"821"
+      },
+      "url":"/site/2-year-standard-geek-squad-protection/5965515.p?skuId=5965515"
+   },
+   {
+      "skuId":"5965517",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"SMALL APPLIANCE GSP",
+         "id":"574"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.98,
+            "percent0To100":98,
+            "totalCount":218
+         },
+         "starRatingBreakdown":[
+            {
+               "count":3,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":1,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":8,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":18,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":193,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":223
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"Enhance your manufacturer warranty and get extended coverage when the warranty ends, including:<br><br> \n<ul> \n<li>If there's a failure from normal wear and tear, we'll repair it.</li> \n<li>If your product won't work because of a power surge, we'll fix it.</li> \n</ul>",
+         "bonusContent":"You're excited to buy a new countertop microwave — now, make sure to protect it. Geek Squad® Protection enhances your manufacturer warranty and gives you extended coverage when the warranty ends.<br><br>Geek Squad Protection often covers important repairs that your manufacturer warranty doesn't (like failure due to a power surge).<br><br>If something goes wrong after the manufacturer warranty ends, rest easy; you won't be stuck with a huge repair bill. Geek Squad Protection has your back and will take care of any covered repairs."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR 50-99.99 MICROWAVE GSP"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/5965/5965517_sa.jpg",
+            "altText":"2-Year Standard Geek Squad Protection - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/5965/5965517_sc.jpg",
+            "altText":"2-Year Standard Geek Squad Protection",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/5965/5965517_s.gif",
+            "altText":"2-Year Standard Geek Squad Protection",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Standard Geek Squad Protection",
+         "keywords":"2-Year Standard Geek Squad Protection",
+         "title":"Geek Squad 2-Year Standard Geek Squad Protection 2YR 50-99.99 MICROWAVE GSP"
+      },
+      "names":{
+         "short":"2-Year Standard Geek Squad Protection"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Appliance Warranties",
+         "categoryId":"pcmcat1500565152234"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"MICROWAVES GSP",
+         "id":"821"
+      },
+      "url":"/site/2-year-standard-geek-squad-protection/5965517.p?skuId=5965517"
+   },
+   {
+      "skuId":"6210904",
+      "active":true,
+      "brand":{
+         "brand":"Shutterfly",
+         "vendor":"BestBuy.com"
+      },
+      "class":{
+         "displayName":"PROCESSING",
+         "id":"52"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.89,
+            "percent0To100":89,
+            "rangeMax":5,
+            "score":4.5
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.91,
+            "percent0To100":91,
+            "totalCount":5702
+         },
+         "starRatingBreakdown":[
+            {
+               "count":247,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":100,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":489,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":1041,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":4375,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":6252
+      },
+      "department":{
+         "displayName":"PHOTO/COMMODITIES",
+         "id":"5"
+      },
+      "descriptions":{
+         "short":"Choose your free gift: &#36;25 to spend or 8x8 Photo Book",
+         "bonusContent":"Choose your free gift: &#36;25 to spend or 8x8 Photo Book"
+      },
+      "manufacturerId":{
+         "modelNumber":"SHUTTERFLY"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":2.994,
+            "height":167,
+            "path":"BestBuy_US/images/products/6210/6210904_sa.jpg",
+            "altText":"Shutterfly - $25 to spend or 8x8 Photo Book - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":3.0,
+            "height":35,
+            "path":"BestBuy_US/images/products/6210/6210904_sc.jpg",
+            "altText":"Shutterfly - $25 to spend or 8x8 Photo Book",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":3.0,
+            "height":18,
+            "path":"BestBuy_US/images/products/6210/6210904_s.gif",
+            "altText":"Shutterfly - $25 to spend or 8x8 Photo Book",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"$25 to spend or 8x8 Photo Book",
+         "keywords":"$25 to spend or 8x8 Photo Book",
+         "title":"Shutterfly $25 to spend or 8x8 Photo Book Multi SHUTTERFLY"
+      },
+      "names":{
+         "short":"Shutterfly - $25 to spend or 8x8 Photo Book"
+      },
+      "parentCategory":{
+         "categoryId":"pcmcat50300050014"
+      },
+      "productType":"$UNKNOWN",
+      "properties":{
+         "format":"digital",
+         "topHat":"$UNKNOWN"
+      },
+      "subclass":{
+         "displayName":"DIGITAL SHUTTERFLY",
+         "id":"2017"
+      },
+      "url":"/site/shutterfly-25-to-spend-or-8x8-photo-book/6210904.p?skuId=6210904"
+   },
+   {
+      "skuId":"6259290",
+      "active":true,
+      "attributes":{
+         "hasTrailers":true,
+         "lowPriceGuaranteedProduct":true
+      },
+      "brand":{
+         "brand":"Electronic Arts",
+         "publisher":"EA"
+      },
+      "class":{
+         "displayName":"VIDEO GAME SOFTWARE",
+         "id":"92"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.73,
+            "percent0To100":73,
+            "rangeMax":5,
+            "score":3.7
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.71,
+            "percent0To100":71,
+            "totalCount":437
+         },
+         "starRatingBreakdown":[
+            {
+               "count":64,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":57,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":105,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":184,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":202,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":612
+      },
+      "dates":{
+         "streetDate":"02/22/2019"
+      },
+      "department":{
+         "displayName":"INTERACTIVE SOFTWARE",
+         "id":"9"
+      },
+      "descriptions":{
+         "short":"Fight the dangers of an ever-changing world",
+         "synopsis":"Experience danger and reward in Anthem for the PlayStation 4. Its multiplayer mode lets you and three friends form a team and challenge deadly foes in a massive open world, and Javelin exosuits can be altered to match your playstyle through collected and crafted gear. Become a Freelancer and discover the forgotten secrets of Anthem.<br><br>Anthem™ invites you to experience a co-operative Action-RPG set in a new and mysterious world from BioWare™ and EA."
+      },
+      "esrbRating":{
+         "descriptors":"Alcohol reference, Language, Mild blood, Use of tobacco, Violence",
+         "rating":"T"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.0,
+            "height":500,
+            "path":"BestBuy_US/images/products/6259/6259290_sa.jpg",
+            "altText":"Anthem Standard Edition - PlayStation 4 - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.0,
+            "height":105,
+            "path":"BestBuy_US/images/products/6259/6259290_sc.jpg",
+            "altText":"Anthem Standard Edition - PlayStation 4",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.0,
+            "height":54,
+            "path":"BestBuy_US/images/products/6259/6259290_s.gif",
+            "altText":"Anthem Standard Edition - PlayStation 4",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Anthem, Read customer reviews and buy online at Best Buy.",
+         "keywords":"Anthem,EA",
+         "title":"Anthem Standard Edition - PlayStation 4"
+      },
+      "names":{
+         "short":"Anthem Standard Edition - PlayStation 4",
+         "title":"Anthem"
+      },
+      "parentCategory":{
+         "displayName":"PS4 Games",
+         "categoryId":"pcmcat296300050018"
+      },
+      "productType":"gameFull",
+      "properties":{
+         "format":"physical",
+         "platform":"PlayStation 4"
+      },
+      "subclass":{
+         "displayName":"PLAYSTATION 4 SW",
+         "id":"967"
+      },
+      "url":"/site/anthem-standard-edition-playstation-4/6259290.p?skuId=6259290",
+      "productVariations":[
+         {
+            "variationType":"Video_Games:Platform"
+         },
+         {
+            "variationType":"Video_Games:Software_Format"
+         },
+         {
+            "variationType":"Video_Games:Edition"
+         }
+      ]
+   },
+   {
+      "skuId":"6315750",
+      "active":true,
+      "attributes":{
+         "bestBuyExclusiveProduct":true,
+         "exclusiveBrand":true,
+         "lowPriceGuaranteedProduct":true,
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Insignia™"
+      },
+      "class":{
+         "displayName":"MICROWAVE",
+         "id":"41"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.9,
+            "percent0To100":90,
+            "rangeMax":5,
+            "score":4.5
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.93,
+            "percent0To100":93,
+            "totalCount":888
+         },
+         "starRatingBreakdown":[
+            {
+               "count":24,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":8,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":61,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":217,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":642,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":952
+      },
+      "department":{
+         "displayName":"APPLIANCE",
+         "id":"4"
+      },
+      "descriptions":{
+         "short":"<b>Only at Best Buy</b><br>700W of power; electronic controls; LED display; beverage; popcorn; pizza; vegetables; potato; weight defrost; express cook; time defrost; dinner; 10\" turntable",
+         "bonusContent":"<b>Only at Best Buy</b><br>Cook foods quickly and evenly with this Insignia compact microwave, which features up to 11 power levels for cooking a variety of foods. The weight defrost option eliminates the chance of burning a meal by precisely thawing foods according to their weight. This Insignia compact microwave also includes an internal light, making it easier to judge when cooking is done.<BR><BR><a href=\"https://www.bestbuy.com/site/buying-guides/microwaves-buying-guide/pcmcat324600050002.c?id=pcmcat324600050002&Type=category\" class=\"bbypopup\" data-bbypopup-width=\"960\" data-bbypopup-height=\"800\" title=\"Microwave Buying Guide\" target=\"_blank\" name=\"&lid=PDP_BuyingGuide_Microwave_118889\"><img src=\"https://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/global/buyingguides/microwaves/images/bg_microwave_pdp.png\" width=\"468 px\" height=\"90 px\" alt=\"Microwave Buying Guide\"></a>"
+      },
+      "manufacturerId":{
+         "modelNumber":"NS-MW07BK0"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/6315/6315750_sa.jpg",
+            "altText":"Insignia™ - 0.7 Cu. Ft. Compact Microwave - Black - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/6315/6315750_sc.jpg",
+            "altText":"Insignia™ - 0.7 Cu. Ft. Compact Microwave - Black",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8621,
+            "height":29,
+            "path":"BestBuy_US/images/products/6315/6315750_s.gif",
+            "altText":"Insignia™ - 0.7 Cu. Ft. Compact Microwave - Black",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Insignia 0.7 Cu. Ft. Compact Microwave: 700W of power; electronic controls; LED display; beverage; popcorn; pizza; vegetables; potato; weight defrost; express cook; time defrost; dinner; 10\" turntable",
+         "keywords":"Insignia,0.7 Cu. Ft. Compact Microwave,NS-MW07BK0,Compact Microwaves,Home & Appliances",
+         "title":"Insignia 0.7 Cu. Ft. Compact Microwave Black NS-MW07BK0"
+      },
+      "names":{
+         "short":"Insignia™ - 0.7 Cu. Ft. Compact Microwave - Black"
+      },
+      "parentCategory":{
+         "displayName":"All Microwaves",
+         "categoryId":"pcmcat748301803023"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"COMPACT",
+         "id":"61"
+      },
+      "url":"/site/insignia-0-7-cu-ft-compact-microwave-black/6315750.p?skuId=6315750",
+      "productVariations":[
+         {
+            "variationType":"Major_Appliances:Color"
+         }
+      ]
+   },
+   {
+      "skuId":"6329956",
+      "active":true,
+      "attributes":{
+         "energyStarCompatible":true,
+         "lowPriceGuaranteedProduct":true,
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"LG"
+      },
+      "class":{
+         "displayName":"MONITORS",
+         "id":"84"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.93,
+            "percent0To100":93,
+            "rangeMax":5,
+            "score":4.6
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.93,
+            "percent0To100":93,
+            "totalCount":448
+         },
+         "starRatingBreakdown":[
+            {
+               "count":12,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":4,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":10,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":92,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":362,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":480
+      },
+      "department":{
+         "displayName":"COMPUTERS",
+         "id":"6"
+      },
+      "descriptions":{
+         "short":"<ul><li>3840 x 2160 resolution (4K Ultra HD)</li><li>5 ms response time</li><li>DisplayPort & 2 HDMI inputs</li><li>178° horizontal and vertical viewing angles</li></ul>",
+         "bonusContent":"Enjoy a stunning LED display with this 27-inch LG monitor. The 4K UHD resolution and VESA DisplayHDR deliver vivid scenes to keep you captivated by your favorite shows and movies, and IPS technology maintains consistent colors at various viewing angles. This LG monitor's Radeon FreeSync matches your graphics card's frame rate for a stutter-free experience.<BR><BR> <a href=\"https://www.bestbuy.com/site/olspage.jsp?&id=pcmcat337000050000&type=category\" class=\"bbypopup\" data-bbypopup-width=\"960\" data-bbypopup-height=\"800\" title=\"Monitor Buying Guide\" target=\"_blank\" name=\"&lid=PDP_MonitorBuyingGuide_125016\"><img src=\"https://images.bestbuy.com/BestBuy_US/en_US/images/abn/2014/global/buyingguides/monitors/entry_points/pdp_monitors.png\" width=\"418 px\" height=\"90 px\" alt=\"Monitor Buying Guide\"></a>"
+      },
+      "manufacturerId":{
+         "modelNumber":"27UL600-W.AUS"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.3123,
+            "height":381,
+            "path":"BestBuy_US/images/products/6329/6329956_sa.jpg",
+            "altText":"LG - 27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR - Silver/White - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.3125,
+            "height":80,
+            "path":"BestBuy_US/images/products/6329/6329956_sc.jpg",
+            "altText":"LG - 27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR - Silver/White",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.3171,
+            "height":41,
+            "path":"BestBuy_US/images/products/6329/6329956_s.gif",
+            "altText":"LG - 27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR - Silver/White",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"LG 27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR: 3840 x 2160 resolution (4K Ultra HD); 5 ms response time; DisplayPort & 2 HDMI inputs; 178 degrees horizontal and vertical viewing angles",
+         "keywords":"LG,27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR,27UL600-W.AUS,Flat-Panel Monitors,Computers",
+         "title":"LG 27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR Silver 27UL600-W.AUS"
+      },
+      "names":{
+         "short":"LG - 27UL600-W 27\" IPS LED 4K UHD FreeSync Monitor with HDR - Silver/White"
+      },
+      "parentCategory":{
+         "displayName":"All Monitors",
+         "categoryId":"pcmcat143700050048"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "specialOffers":[
+         {
+            "type":"PWP Global",
+            "startDate":"2020-06-05T14:00Z",
+            "name":"$29.99 MK540 Keyboard Combo with Monitor",
+            "target":"blank",
+            "url":"/site/offer/391564/pcmcat1591123231287.c?id=pcmcat1591123231287",
+            "checkMarkMessagingPriority":"High",
+            "priority":"1",
+            "openLink":"sameTab",
+            "openDisclaimer":"inModal"
+         }
+      ],
+      "subclass":{
+         "displayName":"FLAT SCREEN MONITOR",
+         "id":"4194"
+      },
+      "url":"/site/lg-27ul600-w-27-ips-led-4k-uhd-freesync-monitor-with-hdr-silver-white/6329956.p?skuId=6329956"
+   },
+   {
+      "skuId":"6339280",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"HOME OFFICE GSP",
+         "id":"69"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.95,
+            "percent0To100":95,
+            "rangeMax":5,
+            "score":4.7
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "totalCount":687
+         },
+         "starRatingBreakdown":[
+            {
+               "count":18,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":6,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":15,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":61,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":614,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":714
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"With a Geek Squad® Product Replacement Plan, if your monitor stops working properly, we'll give you a replacement (if the product is available) or reimburse you. You'll be covered for:<br><br>\n<ul>\n<li>Bad pixels or a shadow image on your screen.</li>\n<li>Failures from normal wear and tear.</li>\n<li>Power surge damage, including from lightning strikes.</li>\n</ul>",
+         "bonusContent":"Make sure to protect your new computer monitor. A Geek Squad® Product Replacement Plan enhances and extends your manufacturer warranty and gives you peace of mind if your product isn't working properly.<br><br>If your monitor fails for an issue that we cover but your manufacturer doesn't, we'll replace your product (if one is available) or reimburse you."
+      },
+      "manufacturerId":{
+         "modelNumber":"4YR 300-399.99 MONITOR GSP-R"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/6339/6339280_sa.jpg",
+            "altText":"4-Year Geek Squad Product Replacement - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/6339/6339280_sc.jpg",
+            "altText":"4-Year Geek Squad Product Replacement",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/6339/6339280_s.gif",
+            "altText":"4-Year Geek Squad Product Replacement",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"4-Year Geek Squad Product Replacement",
+         "keywords":"4-Year Geek Squad Product Replacement",
+         "title":"Geek Squad 4-Year Geek Squad Product Replacement 4YR 300-399.99 MONITOR GSP-R"
+      },
+      "names":{
+         "short":"4-Year Geek Squad Product Replacement"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"MONITOR  GSP-R",
+         "id":"2103"
+      },
+      "url":"/site/4-year-geek-squad-product-replacement/6339280.p?skuId=6339280"
+   },
+   {
+      "skuId":"6340414",
+      "active":true,
+      "attributes":{
+         "hasTrailers":true,
+         "lowPriceGuaranteedProduct":true
+      },
+      "brand":{
+         "brand":"Electronic Arts",
+         "publisher":"EA"
+      },
+      "class":{
+         "displayName":"VIDEO GAME SOFTWARE",
+         "id":"92"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.94,
+            "percent0To100":94,
+            "rangeMax":5,
+            "score":4.7
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.97,
+            "percent0To100":97,
+            "totalCount":1999
+         },
+         "starRatingBreakdown":[
+            {
+               "count":8,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":14,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":67,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":394,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":1585,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":2068
+      },
+      "dates":{
+         "streetDate":"11/15/2019"
+      },
+      "department":{
+         "displayName":"INTERACTIVE SOFTWARE",
+         "id":"9"
+      },
+      "descriptions":{
+         "short":"Become a Jedi",
+         "synopsis":"Take the Force with you in Star Wars Jedi: Fallen Order for the PlayStation 4. Lightsaber skills acquired through Jedi training prepare you for combat against Imperial forces, and the company of a droid, pilot and former Jedi Knight provides an exciting adventure. Explore a vast galaxy of diverse environments with the action-adventure gameplay of Star Wars Jedi: Fallen Order."
+      },
+      "esrbRating":{
+         "descriptors":"Mild language, Violence",
+         "rating":"T"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":0.794,
+            "height":500,
+            "path":"BestBuy_US/images/products/6340/6340414_sa.jpg",
+            "altText":"Star Wars: Jedi Fallen Order - PlayStation 4 - Larger Front",
+            "width":397
+         },
+         "listImage":{
+            "aspectRatio":0.7955,
+            "height":132,
+            "path":"BestBuy_US/images/products/6340/6340414_sc.jpg",
+            "altText":"Star Wars: Jedi Fallen Order - PlayStation 4",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":0.7941,
+            "height":68,
+            "path":"BestBuy_US/images/products/6340/6340414_s.gif",
+            "altText":"Star Wars: Jedi Fallen Order - PlayStation 4",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Star Wars: Jedi Fallen Order, Read customer reviews and buy online at Best Buy.",
+         "keywords":"galaxy-spanning adventure action padawan abilities combat enemies survival",
+         "title":"Star Wars: Jedi Fallen Order - PlayStation 4"
+      },
+      "names":{
+         "short":"Star Wars: Jedi Fallen Order - PlayStation 4",
+         "title":"Star Wars: Jedi Fallen Order"
+      },
+      "parentCategory":{
+         "displayName":"PS4 Games",
+         "categoryId":"pcmcat296300050018"
+      },
+      "productType":"gameFull",
+      "properties":{
+         "format":"physical",
+         "platform":"PlayStation 4"
+      },
+      "subclass":{
+         "displayName":"PLAYSTATION 4 SW",
+         "id":"967"
+      },
+      "url":"/site/star-wars-jedi-fallen-order-playstation-4/6340414.p?skuId=6340414",
+      "productVariations":[
+         {
+            "variationType":"Video_Games:Platform"
+         },
+         {
+            "variationType":"Video_Games:Software_Format"
+         }
+      ]
+   },
+   {
+      "skuId":"6355790",
+      "active":true,
+      "attributes":{
+         "lowPriceGuaranteedProduct":true,
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Bella"
+      },
+      "class":{
+         "displayName":"TRAFFIC APPLIANCES",
+         "id":"106"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.91,
+            "percent0To100":91,
+            "rangeMax":5,
+            "score":4.5
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.93,
+            "percent0To100":93,
+            "totalCount":341
+         },
+         "starRatingBreakdown":[
+            {
+               "count":13,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":7,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":14,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":67,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":266,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":367
+      },
+      "department":{
+         "displayName":"APPLIANCE",
+         "id":"4"
+      },
+      "descriptions":{
+         "short":"6 browning settings; antijam feature; cancel option; indicators; auto shutoff; manual lever; slide-out crumb tray",
+         "bonusContent":"Prepare waffles, toast and other foods with this BELLA black two-slice toaster. The crumb tray is removable for fast cleaning, while the high-lift lever makes pulling out contents easier. This BELLA black two-slice toaster has an auto shut-off feature for extra safety, and the six shade settings accommodate a wide range of tastes."
+      },
+      "manufacturerId":{
+         "modelNumber":"14829"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":0.916,
+            "height":500,
+            "path":"BestBuy_US/images/products/6355/6355790_ra.jpg",
+            "altText":"Bella - 2-Slice Extra-Wide/Self-Centering-Slot Toaster - Black With Stainless Steel Accents - Angle",
+            "width":458
+         },
+         "listImage":{
+            "aspectRatio":0.913,
+            "height":115,
+            "path":"BestBuy_US/images/products/6355/6355790_rc.jpg",
+            "altText":"Bella - 2-Slice Extra-Wide/Self-Centering-Slot Toaster - Black With Stainless Steel Accents",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":0.9153,
+            "height":59,
+            "path":"BestBuy_US/images/products/6355/6355790_r.gif",
+            "altText":"Bella - 2-Slice Extra-Wide/Self-Centering-Slot Toaster - Black With Stainless Steel Accents",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Bella 2-Slice Extra-Wide/Self-Centering-Slot Toaster: 6 browning settings; antijam feature; cancel option; indicators; auto shutoff; manual lever; slide-out crumb tray",
+         "keywords":"Bella,2-Slice Extra-Wide/Self-Centering-Slot Toaster,14829,Toasters,Cooking & Baking",
+         "title":"Bella 2-Slice Extra-Wide/Self-Centering-Slot Toaster Black 14829"
+      },
+      "names":{
+         "short":"Bella - 2-Slice Extra-Wide/Self-Centering-Slot Toaster - Black With Stainless Steel Accents"
+      },
+      "parentCategory":{
+         "displayName":"Toasters",
+         "categoryId":"abcat0912023"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"TOASTERS",
+         "id":"490"
+      },
+      "url":"/site/bella-2-slice-extra-wide-self-centering-slot-toaster-black-with-stainless-steel-accents/6355790.p?skuId=6355790"
+   },
+   {
+      "skuId":"6356400",
+      "active":true,
+      "attributes":{
+         "lowPriceGuaranteedProduct":true,
+         "onlineOnly":true
+      },
+      "bonusContent":[
+         {
+            "description":"Choose your free gift: $25 to spend or 8x8 Photo Book",
+            "displayName":"Shutterfly - $25 to spend or 8x8 Photo Book",
+            "primaryImage":{
+               "aspectRatio":2.994,
+               "height":167,
+               "path":"BestBuy_US/images/products/6210/6210904_sa.jpg",
+               "altText":"Shutterfly - $25 to spend or 8x8 Photo Book - Larger Front",
+               "width":500
+            }
+         }
+      ],
+      "brand":{
+         "brand":"JOBY"
+      },
+      "class":{
+         "displayName":"DIGITAL CAMERA ACCY",
+         "id":"56"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.95,
+            "percent0To100":95,
+            "rangeMax":5,
+            "score":4.7
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.97,
+            "percent0To100":97,
+            "totalCount":572
+         },
+         "starRatingBreakdown":[
+            {
+               "count":3,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":5,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":20,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":87,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":476,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":591
+      },
+      "department":{
+         "displayName":"PHOTO/COMMODITIES",
+         "id":"5"
+      },
+      "descriptions":{
+         "short":"Compatible with most camcorders, cameras and cellular phones up to 6.6 lbs.; quick release system; ball head; flexible legs; aluminum and ABS plastic construction; smartphone adapter included",
+         "bonusContent":"Keep your camera steady for high-quality shots and footage with this JOBY GorillaPod 3K tripod. The three grip, wrap and stand modes offer flexibility for creative filming, while the quick-release clip enables easy device removal. This JOBY GorillaPod 3K tripod supports equipment of up to 6.6 lbs. and works well with cameras and smartphones."
+      },
+      "manufacturerId":{
+         "modelNumber":"JB01637-BWW"
+      },
+      "marketingBadge":{
+         "altText":"Student Deals",
+         "imagePath":"BestBuy_US/store/ee/2017/global/student-hub/badge-student-deals.png",
+         "linkUrl":"https://www.bestbuy.com/site/back-to-school/college-student-deals/pcmcat276200050000.c?id=pcmcat276200050000"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":0.742,
+            "height":500,
+            "path":"BestBuy_US/images/products/6356/6356400_ra.jpg",
+            "altText":"JOBY - GorillaPod 3K SMART Kit Tripod - Black/Red/Charcoal - Angle",
+            "width":371
+         },
+         "listImage":{
+            "aspectRatio":0.7447,
+            "height":141,
+            "path":"BestBuy_US/images/products/6356/6356400_rc.jpg",
+            "altText":"JOBY - GorillaPod 3K SMART Kit Tripod - Black/Red/Charcoal",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":0.7397,
+            "height":73,
+            "path":"BestBuy_US/images/products/6356/6356400_r.gif",
+            "altText":"JOBY - GorillaPod 3K SMART Kit Tripod - Black/Red/Charcoal",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"JOBY GorillaPod 3K SMART Kit Tripod: Compatible with most camcorders, cameras and cellular phones up to 6.6 lbs.; quick release system; ball head; flexible legs; aluminum and ABS plastic construction; smartphone adapter included",
+         "keywords":"Digital Camera Accessories,GorillaPod 3K SMART Kit Tripod,JB01637-BWW,JOBY,Tripods",
+         "title":"JOBY GorillaPod 3K SMART Kit Tripod Black JB01637-BWW"
+      },
+      "names":{
+         "short":"JOBY - GorillaPod 3K SMART Kit Tripod - Black/Red/Charcoal"
+      },
+      "parentCategory":{
+         "displayName":"Tripods",
+         "categoryId":"pcmcat328900050013"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"TRIPODS",
+         "id":"305"
+      },
+      "url":"/site/joby-gorillapod-3k-smart-kit-tripod-black-red-charcoal/6356400.p?skuId=6356400"
+   },
+   {
+      "skuId":"6358988",
+      "active":true,
+      "attributes":{
+         "lowPriceGuaranteedProduct":true,
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"ZAGG"
+      },
+      "class":{
+         "displayName":"IPHONE ACCY",
+         "id":"123"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.93,
+            "percent0To100":93,
+            "rangeMax":5,
+            "score":4.7
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.92,
+            "percent0To100":92,
+            "totalCount":513
+         },
+         "starRatingBreakdown":[
+            {
+               "count":15,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":8,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":20,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":59,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":456,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":558
+      },
+      "department":{
+         "displayName":"DIGITAL COMMUNICATIO",
+         "id":"3"
+      },
+      "descriptions":{
+         "short":"Compatible with Apple iPhone X and XS; scratch-resistant; impact protection; smudge-proof; shatterproof; toughened glass",
+         "bonusContent":"Help keep your iPhone X or XS safe from cracks and other damage with this ZAGG InvisibleShield glass and screen protector. The special coating resists fingerprints and smudges for a clean look. This ZAGG InvisibleShield glass and screen protector is thin to prevent interference with touch sensitivity for a responsive experience."
+      },
+      "manufacturerId":{
+         "modelNumber":"200101013"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":0.426,
+            "height":500,
+            "path":"BestBuy_US/images/products/6358/6358988_ra.jpg",
+            "altText":"ZAGG - InvisibleShield Toughened Glass Screen Protector for Apple® iPhone® X and XS - Crystal Clear - Angle",
+            "width":213
+         },
+         "listImage":{
+            "aspectRatio":0.4238,
+            "height":210,
+            "path":"BestBuy_US/images/products/6358/6358988_rc.jpg",
+            "altText":"ZAGG - InvisibleShield Toughened Glass Screen Protector for Apple® iPhone® X and XS - Crystal Clear",
+            "width":89
+         },
+         "thumbnailImage":{
+            "aspectRatio":0.4259,
+            "height":108,
+            "path":"BestBuy_US/images/products/6358/6358988_r.gif",
+            "altText":"ZAGG - InvisibleShield Toughened Glass Screen Protector for Apple® iPhone® X and XS - Crystal Clear",
+            "width":46
+         }
+      },
+      "meta":{
+         "description":"ZAGG InvisibleShield Toughened Glass Screen Protector for Apple iPhone X and XS: Compatible with Apple iPhone X and XS; scratch-resistant; impact protection; smudge-proof; shatterproof; toughened glass",
+         "keywords":"ZAGG,InvisibleShield Toughened Glass Screen Protector for Apple iPhone X and XS,200101013,Screen Protectors,Cell Phone Accessories",
+         "title":"ZAGG InvisibleShield Toughened Glass Screen Protector for Apple iPhone X and XS Clear 200101013"
+      },
+      "names":{
+         "short":"ZAGG - InvisibleShield Toughened Glass Screen Protector for Apple® iPhone® X and XS - Crystal Clear"
+      },
+      "parentCategory":{
+         "displayName":"Cell Phone Screen Protectors",
+         "categoryId":"pcmcat171900050031"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"SURFACE PROTECTION",
+         "id":"752"
+      },
+      "url":"/site/zagg-invisibleshield-toughened-glass-screen-protector-for-apple-iphone-x-and-xs-crystal-clear/6358988.p?skuId=6358988"
+   },
+   {
+      "skuId":"6383833",
+      "active":true,
+      "attributes":{
+         "onlineOnly":true
+      },
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"CONNECTED NETWORK",
+         "id":"600"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.97,
+            "percent0To100":97,
+            "totalCount":2883
+         },
+         "starRatingBreakdown":[
+            {
+               "count":53,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":19,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":75,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":246,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":2590,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":2983
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"With a Geek Squad® Product Replacement Plan, if your networking product stops working properly, we'll give you a replacement (if the product is available) or reimburse you. You'll be covered for:<br><br>\n<ul>\n<li>Failures from normal wear and tear.</li>\n<li>Power surge damage, including from lightning strikes.</li>\n</ul>",
+         "bonusContent":"Make sure to protect your new networking product. A Geek Squad® Product Replacement Plan enhances and extends your manufacturer warranty and gives you peace of mind if your product isn't working properly.<br><br>If your networking product fails for an issue that we cover but your manufacturer doesn't, we'll replace your product (if one is available) or reimburse you."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR $100-$149.99NETWRKING GSPR"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/6383/6383833_sa.jpg",
+            "altText":"2-Year Geek Squad Product Replacement - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/6383/6383833_sc.jpg",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/6383/6383833_s.gif",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Geek Squad Product Replacement",
+         "keywords":"2-Year Geek Squad Product Replacement",
+         "title":"Geek Squad 2-Year Geek Squad Product Replacement 2YR $100-$149.99NETWRKING GSPR"
+      },
+      "names":{
+         "short":"2-Year Geek Squad Product Replacement"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"NETWORK GSPR",
+         "id":"6624"
+      },
+      "url":"/site/2-year-geek-squad-product-replacement/6383833.p?skuId=6383833"
+   },
+   {
+      "skuId":"6412295",
+      "active":true,
+      "brand":{
+         "brand":"HBO"
+      },
+      "class":{
+         "displayName":"DIGITAL MUSIC",
+         "id":"187"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.86,
+            "percent0To100":86,
+            "rangeMax":5,
+            "score":4.3
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.83,
+            "percent0To100":83,
+            "totalCount":708
+         },
+         "starRatingBreakdown":[
+            {
+               "count":68,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":21,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":72,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":134,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":557,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":852
+      },
+      "department":{
+         "displayName":"DTS",
+         "id":"10"
+      },
+      "descriptions":{
+         "short":"Free HBO Max for 30 days (new subscribers only)",
+         "bonusContent":"Stream your favorite entertainment on your favorite devices — anytime, anywhere. Enjoy all of HBO together with even more culture-defining TV, blockbuster movies, classic favorites, and new Max Originals."
+      },
+      "manufacturerId":{
+         "modelNumber":"Digital Item"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.0,
+            "height":500,
+            "path":"BestBuy_US/images/products/6412/6412295_sa.jpg",
+            "altText":"Free HBO Max for 30 days (new subscribers only) [Digital] - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.0,
+            "height":105,
+            "path":"BestBuy_US/images/products/6412/6412295_sc.jpg",
+            "altText":"Free HBO Max for 30 days (new subscribers only) [Digital]",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.0,
+            "height":54,
+            "path":"BestBuy_US/images/products/6412/6412295_s.gif",
+            "altText":"Free HBO Max for 30 days (new subscribers only) [Digital]",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Free HBO Max for 30 days (new subscribers only)",
+         "keywords":"Free HBO Max for 30 days (new subscribers only)",
+         "title":"HBO Free HBO Max for 30 days (new subscribers only) Digital Item"
+      },
+      "names":{
+         "short":"Free HBO Max for 30 days (new subscribers only) [Digital]"
+      },
+      "parentCategory":{
+         "displayName":"All Specialty Gift Cards",
+         "categoryId":"pcmcat1514906902468"
+      },
+      "productType":"$UNKNOWN",
+      "properties":{
+         "format":"digital",
+         "topHat":"$UNKNOWN"
+      },
+      "subclass":{
+         "displayName":"DIGITAL PROMOTIONAL",
+         "id":"6035"
+      },
+      "url":"/site/free-hbo-max-for-30-days-new-subscribers-only-digital/6412295.p?skuId=6412295"
+   },
+   {
+      "skuId":"6473147",
+      "active":true,
+      "attributes":{
+         "lowPriceGuaranteedProduct":true
+      },
+      "brand":{
+         "brand":"Google"
+      },
+      "class":{
+         "displayName":"SECURITY AND VIDEO",
+         "id":"672"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.92,
+            "percent0To100":92,
+            "rangeMax":5,
+            "score":4.6
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.94,
+            "percent0To100":94,
+            "totalCount":3957
+         },
+         "starRatingBreakdown":[
+            {
+               "count":69,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":49,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":170,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":894,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":3007,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":4189
+      },
+      "department":{
+         "displayName":"ACCESSORIES",
+         "id":"12"
+      },
+      "descriptions":{
+         "short":"130° viewing angle; 1/3\", 3.0MP sensor; 8x digital zoom; night vision; 8 infrared LEDs with IR cut filter; Wi-Fi and Bluetooth connectivity; 1080p Full HD resolution at 30 fps; remote viewing; 128-bit AES with TLS/SSL encryption; for indoor use",
+         "bonusContent":"Nest Cam Security Camera: Keep an eye on what matters with this indoor-use camera. Night vision lets you see in the dark and the Nest app notifies you when the camera detects motion or sound. You can even stream live HD video to your iOS or Android device 24/7 for remote monitoring and archive recorded footage."
+      },
+      "manufacturerId":{
+         "modelNumber":"NC1102ES"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":0.618,
+            "height":500,
+            "path":"BestBuy_US/images/products/6473/6473147_ra.jpg",
+            "altText":"Google - Nest Cam Indoor Security Camera - Black - Angle",
+            "width":309
+         },
+         "listImage":{
+            "aspectRatio":0.6176,
+            "height":170,
+            "path":"BestBuy_US/images/products/6473/6473147_rc.jpg",
+            "altText":"Google - Nest Cam Indoor Security Camera - Black",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":0.6207,
+            "height":87,
+            "path":"BestBuy_US/images/products/6473/6473147_r.gif",
+            "altText":"Google - Nest Cam Indoor Security Camera - Black",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"Google Nest Cam Indoor Security Camera: 130-degree viewing angle; 1/3\", 3.0MP sensor; 8x digital zoom; night vision; 8 infrared LEDs with IR cut filter; Wi-Fi and Bluetooth connectivity; 1080p Full HD resolution at 30 fps; remote viewing",
+         "keywords":"Google,NC1102ES,Nest Cam Indoor Security Camera,Surveillance Cameras",
+         "title":"Google Nest Cam Indoor Security Camera Black NC1102ES"
+      },
+      "names":{
+         "short":"Google - Nest Cam Indoor Security Camera - Black"
+      },
+      "parentCategory":{
+         "displayName":"Indoor Security Cameras",
+         "categoryId":"pcmcat254000050005"
+      },
+      "productType":"hardgood",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"VIDEO MONITORING SAV",
+         "id":"1385"
+      },
+      "url":"/site/google-nest-cam-indoor-security-camera-black/6473147.p?skuId=6473147"
+   },
+   {
+      "skuId":"9996362",
+      "active":true,
+      "brand":{
+         "brand":"Geek Squad®"
+      },
+      "class":{
+         "displayName":"SMALL APPLIANCE GSP",
+         "id":"574"
+      },
+      "condition":"new",
+      "customerRatings":{
+         "averageRating":{
+            "percent0To1":0.96,
+            "percent0To100":96,
+            "rangeMax":5,
+            "score":4.8
+         },
+         "averageWouldRecommend":{
+            "percent0To1":0.97,
+            "percent0To100":97,
+            "totalCount":2092
+         },
+         "starRatingBreakdown":[
+            {
+               "count":33,
+               "percent0To100":0,
+               "score":1
+            },
+            {
+               "count":13,
+               "percent0To100":0,
+               "score":2
+            },
+            {
+               "count":52,
+               "percent0To100":0,
+               "score":3
+            },
+            {
+               "count":188,
+               "percent0To100":0,
+               "score":4
+            },
+            {
+               "count":1872,
+               "percent0To100":0,
+               "score":5
+            }
+         ],
+         "totalCount":2158
+      },
+      "department":{
+         "displayName":"WARRANTY",
+         "id":"7"
+      },
+      "descriptions":{
+         "short":"With a Geek Squad® Product Replacement Plan, if your small appliance stops working properly, we'll give you a replacement (if the product is available) or reimburse you. You'll be covered for:<br><br> \n<ul> \n<li>Failures from normal wear and tear.</li> \n<li>Power surge damage, including from lightning strikes.</li> \n</ul>",
+         "bonusContent":"Make sure to protect your new small appliance. A Geek Squad® Product Replacement Plan enhances and extends your manufacturer warranty and gives you peace of mind if your product isn't working properly.<br><br>If your small appliance fails for an issue that we cover but your manufacturer doesn't, we'll replace your product (if one is available) or reimburse you."
+      },
+      "manufacturerId":{
+         "modelNumber":"2YR 0-24.99 SM APPL GSP-R"
+      },
+      "media":{
+         "primaryImage":{
+            "aspectRatio":1.8315,
+            "height":273,
+            "path":"BestBuy_US/images/products/9996/9996362_sa.jpg",
+            "altText":"2-Year Geek Squad Product Replacement - Larger Front",
+            "width":500
+         },
+         "listImage":{
+            "aspectRatio":1.8421,
+            "height":57,
+            "path":"BestBuy_US/images/products/9996/9996362_sc.jpg",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":105
+         },
+         "thumbnailImage":{
+            "aspectRatio":1.8,
+            "height":30,
+            "path":"BestBuy_US/images/products/9996/9996362_s.gif",
+            "altText":"2-Year Geek Squad Product Replacement",
+            "width":54
+         }
+      },
+      "meta":{
+         "description":"2-Year Geek Squad Product Replacement",
+         "keywords":"2-Year Geek Squad Product Replacement",
+         "title":"Geek Squad 2-Year Geek Squad Product Replacement 2YR 0-24.99 SM APPL GSP-R"
+      },
+      "names":{
+         "short":"2-Year Geek Squad Product Replacement"
+      },
+      "parentCategory":{
+         "displayName":"Geek Squad Appliance Warranties",
+         "categoryId":"pcmcat1500565152234"
+      },
+      "planType":"GSP",
+      "productType":"warranty",
+      "properties":{
+         "format":"physical"
+      },
+      "subclass":{
+         "displayName":"APPL GSP-R",
+         "id":"824"
+      },
+      "url":"/site/2-year-geek-squad-product-replacement/9996362.p?skuId=9996362"
+   }
+]
