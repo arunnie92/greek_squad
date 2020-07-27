@@ -5,3 +5,5 @@ data source of truth: https://www.bestbuy.com/services/planlist
 examples of skus to use:
     - 6376592 | sku of active gsp product
     - 6340414 | sku of canceled/fufilled product
+
+use sku to hash as an id for calendar dates that already exists
