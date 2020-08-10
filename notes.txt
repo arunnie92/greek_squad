@@ -7,3 +7,12 @@ examples of skus to use:
     - 6340414 | sku of canceled/fufilled product
 
 use sku to hash as an id for calendar dates that already exists
+if 'canceled' and if 'calenederEventExists' -> delete calendar event
+
+curl website to grab data?
+    - https://www.bestbuy.com/services/planlist
+    - protection plans
+
+https://developers.google.com/calendar/quickstart/go#step_3_set_up_the_sample
+
+go run main.go
