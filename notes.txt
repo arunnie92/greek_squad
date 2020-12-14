@@ -1,5 +1,5 @@
 data source of truth: https://www.bestbuy.com/services/planlist
-    - use data_2.json
+    - use data_3.json
 
 
 examples of skus to use:
@@ -12,7 +12,8 @@ if 'canceled' and if 'calenederEventExists' -> delete calendar event
 curl website to grab data?
     - https://www.bestbuy.com/services/planlist
     - protection plans
+    - actual url to curl: https://www.bestbuy.com/services/planlist/api/services/plans?type=serviceplan
 
 https://developers.google.com/calendar/quickstart/go#step_3_set_up_the_sample
 
-go run main.go
+how to not overwrite events in calender? have a json out of event ids to match skus?
