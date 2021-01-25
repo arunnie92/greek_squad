@@ -1,5 +1,4 @@
 data source of truth: https://www.bestbuy.com/services/planlist
-    - use data_3.json
 
 
 examples of skus to use:
