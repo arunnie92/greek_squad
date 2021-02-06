@@ -1,80 +1,70 @@
 package main
 
 import (
-	"bufio"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
-
-	"github.com/speps/go-hashids"
 )
 
-type hashID string
+const active = "Active"
 
-func newHash() *hashids.HashID {
-	hd := hashids.NewData()
-	hd.Salt = "id"
-	hd.MinLength = 30
-	h, _ := hashids.NewWithData(hd)
-	// e, _ := *h.Encode([]int{45, 434, 1313, 99})
-	// fmt.Println(e)
-	// d, _ := h.DecodeWithError(e)
-	// fmt.Println(d)
 
-	return h
-}
 
 type product struct {
-	SkuID              string `json:"currentProductSku"`
-	ProductDescription string `json:"productDescription"`
-	TermBeginDate      string `json:"termBeginDate"`
-	TermEndDate        string `json:"termEndDate"`
+	ID                      int64  `json:"created"`
+	Sku                     string `json:"currentProductSku"`
+	Description             string `json:"productDescription"`
+	Model                   string `json:"model"`
+	PurchaseDate            string `json:"purchasedDate"`
+	ProtectionPlanTitle     string `json:"title"`
+	ProtectionPlanType      string `json:"contractClassDescription"`
+	ProtectionPlanSku       string `json:"originalPlanSku"`
+	ProtectionPlanStatus    string `json:"contractStatusDescription"`
+	ProtectionPlanStartDate string `json:"termBeginDate"`
+	ProtectionPlanEndDate   string `json:"termEndDate"`
+	//
+	BbyOrderNumber     string `json:"orderNumber"`
+	ReceiptTransaction string `json:"fourPartKey"`
 }
 
-type userInfo struct {
-	Email string
-	// Password string // gmail password
-}
-
-type products []product
-
-func main() {
-	reader := bufio.NewReader(os.Stdin)
-	var user userInfo
-
-	fmt.Print("Please enter your emaill-> ")
-	email, _ := reader.ReadString('\n')
-	user.Email = email
-
-	// TODO: validate email
-
-	fmt.Println("Uploading Geek Squad GSP JSON file... ")
-	jsonFile, jsonFilErr := os.Open("../data_2.json")
+func ingestData() map[int64]product {
+	fmt.Println("Reading Geek Squad GSP Products JSON file... ")
+	jsonFile, jsonFilErr := os.Open("../data.json")
 	if jsonFilErr != nil {
 		fmt.Println(jsonFilErr)
-		return
+		return nil
 	}
-	fmt.Println("Successfully Geek Squad GSP JSON file...")
+	fmt.Println("Successfully Ingested Geek Squad GSP Products JSON file...")
 
 	defer jsonFile.Close()
 
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 
-	var items products
+	var productsArr []product
 
-	err := json.Unmarshal(byteValue, &items)
+	err := json.Unmarshal(byteValue, &productsArr)
 	if err != nil {
 		fmt.Println(err)
-		return
+		return nil
 	}
 
-	fmt.Println(items[0].SkuID)
+	productsMap := make(map[int64]product)
 
-	for index, item := range items {
-		fmt.Println(index)
-
-		fmt.Println(item.SkuID)
+	for _, product := range productsArr {
+		if product.ProtectionPlanStatus == active {
+			productsMap[product.ID] = product
+		}
 	}
-	// fmt.Println(toHash(items[0].SkuID))
+
+	return productsMap
+}
+
+func main() {
+	products := ingestData()
+	fmt.Println(len(products))
+
+	for _, product := range products {
+		fmt.Println(product.Sku)
+	}
 }

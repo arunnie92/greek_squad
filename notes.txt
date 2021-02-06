@@ -1,6 +1,5 @@
 data source of truth: https://www.bestbuy.com/services/planlist
 
-
 examples of skus to use:
     - 6376592 | sku of active gsp product
     - 6340414 | sku of canceled/fufilled product
@@ -15,4 +14,26 @@ curl website to grab data?
 
 https://developers.google.com/calendar/quickstart/go#step_3_set_up_the_sample
 
-how to not overwrite events in calender? have a json out of event ids to match skus?
+how to not overwrite events in calender? have a json out of event ids to match skus? 
+OR just export a 'calendar' file and delete the old calendar and create a new one
+
+what if statusDisplay and contractStatusDescription are different?
+
+add isTotalTech flag to 'product' object
+    - is that just the total tech support product itself that I purchased?
+
+bigger than int64? asking for ID
+
+what is fourPartKey and orderNumber?
+    - should i add to Product as extra data to pull up receipt
+    - shouldnt the first part of fourPartkey be 5 characters like 01896?
+
+export to calendar file?
+    - create calendar
+    - add events as objects with alerts set up
+
+which products are the ones I bought for other people?
+
+is woodbridge nj store number is 00960?
+
+how many replacement plans and non replacement plan?
